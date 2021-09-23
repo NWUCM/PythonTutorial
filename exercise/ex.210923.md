@@ -42,7 +42,6 @@ Task: take $h=0.1, 0.5, 1.0$, calculate the numerical solution and error respect
 
 ### 2. Pendulum Problem
 
-
 $$
 H(p, q)=\frac{1}{2}p^2+(1-\cos(q))
 $$
