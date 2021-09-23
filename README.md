@@ -2,6 +2,6 @@
 
 Minutes of Python seminar.
 
-## Task
+## Exercises
 
-- [Explicit for ODE](exercise/ex.210923.md)
+- [2021.9.23 Explicit schemes for ODE](exercise/ex.210923.md)

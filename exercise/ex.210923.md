@@ -2,8 +2,7 @@
 
 2021.09.23
 
-
-## Numerical Method
+## Numerical Schemes
 
 ### 1. Explicit Euler
 
@@ -20,7 +19,7 @@ $$
 \end{array}
 $$
 
-ref: [Runge-Kutta by Wikipedia](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods) 
+ref: [Runge-Kutta by Wikipedia](https://en.wikipedia.org/wiki/Runge%E2%80%93Kutta_methods)
 
 ## Exercise
 
@@ -33,7 +32,7 @@ u(0) = 1
 \end{cases}
 $$
 
-which exact solution is  
+which exact solution is
 
 $$
 u(t)=(1+t^2)^2
