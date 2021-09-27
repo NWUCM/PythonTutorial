@@ -10,8 +10,6 @@ u'=4 t u^{1/2}
 u(0) = 1
 """
 import os, sys
-
-print(os.getcwd())
 sys.path.append(".")
 
 import numpy as np
